@@ -5,3 +5,8 @@ Test repo for SRI
 
 Bla, bla
 
+Use the command:
+
+```
+$ vagrant up
+```
